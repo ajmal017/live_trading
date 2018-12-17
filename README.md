@@ -22,4 +22,4 @@ Public beta 0.1
 TBD
 
 ## Disclaimer/Warning
-live_trading does not give investmnet advice. For safety reasons due to the beta version, use paper trading.
+live_trading does not give investment advice. For safety reasons due to the beta version, use paper trading.
